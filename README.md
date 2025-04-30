@@ -1,21 +1,20 @@
-Hello! 👋 I'm Dhivya, a passionate front-end developer on a journey to build user-friendly web experiences.  
+Hello! 👋 I'm Dhivya, a passionate Python developer on a journey to build user-friendly web experiences.  
 
 ## 🧑‍🏫 About Me  
 - 🎓 **MCA Graduate** with a keen interest in coding and design.  
-- 💡 Eager to create dynamic and responsive interfaces with **React** and modern web technologies.  
+- 💡 Eager to create dynamic and responsive interfaces with **Python** and modern web technologies.  
 - 🎯 Completed an internship at **Pinesphere**, delivering a company website project.  
 
 ## 🛠️ My Skill Set  
 - **Languages:**  
   - 🌐 HTML5  
   - 🎨 CSS3  
-  - ⚡ JavaScript  
-  - 🧑‍💻 TypeScript  
+  - ⚡ Python 
+  - 🧑‍💻 MySQL 
 
 - **Libraries & Frameworks:**  
-  - ⚛️ React  
-  - 🧩 Bootstrap  
-
+  - ⚛️ Execl
+  
 
 ## 🏆 Projects I've Worked On  
 1. **📈 Tracking Employee Works**  
